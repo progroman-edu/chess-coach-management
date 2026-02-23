@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 24px;
+    line-height: 1.5;
+}
+
+h1 {
+    margin-bottom: 12px;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+a {
+    color: #1b5fcc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
